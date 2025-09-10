@@ -1,4 +1,4 @@
-Versatile technology professional with a passion for software engineering and innovative solutions. Skilled in building responsive web applications using JavaScript, React, and RESTful APIs, with hands-on experience in Python, SQL fundamentals, and cloud deployment (AWS Certified). Proficient in IT support, system administration, and cybersecurity, with expertise in network analysis (Wireshark, Splunk) and automation scripting. Adept at collaborating in team environments and quickly adapting to new technologies and frameworks. Eager to contribute to dynamic projects, delivering efficient, secure, and user-focused solutions. Let’s connect! 👋
+Tech professional passionate about software engineering and innovation. Skilled in JavaScript, React, Python, SQL, and cloud deployment (AWS & Azure). Experienced in IT support, system administration, cybersecurity (CompTIA Sec+), network analysis (Wireshark, Splunk), and automation scripting. Collaborative, adaptable, and eager to deliver secure, efficient, user-focused solutions. 👋
 
 <!--
 **jb679/jb679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
