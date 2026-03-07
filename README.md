@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm John
 
-Developer focused on building responsive, user-friendly web applications and continuously improving my software engineering skills.
+Frontend Developer focused on building responsive, user-friendly web applications and continuously improving my software engineering skills.
 
 🔹 **Languages:** JavaScript, React, TypeScript, Next.JS, MongoDB 
 🔹 **Tools & Platforms:** Git, GitHub, AWS, Azure  
