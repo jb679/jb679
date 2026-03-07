@@ -1,16 +1,15 @@
-Tech professional passionate about software engineering and innovation. Skilled in JavaScript, React, Python, SQL, and cloud deployment (AWS & Azure). Experienced in IT support, system administration, cybersecurity (CompTIA Sec+), network analysis (Wireshark, Splunk), and automation scripting. Collaborative, adaptable, and eager to deliver secure, efficient, user-focused solutions. 👋
+## 👋 Hi, I'm John
 
-<!--
-**jb679/jb679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer focused on building responsive, user-friendly web applications and continuously improving my software engineering skills.
 
-Here are some ideas to get you started:
+🔹 **Languages:** JavaScript, React, TypeScript, Next.JS, MongoDB 
+🔹 **Tools & Platforms:** Git, GitHub, AWS, Azure  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving problems, learning new technologies, and building applications that are clean, maintainable, and scalable.
+
+🚀 Currently improving my skills in **React, modern JavaScript, and full-stack development.**
+
+### 📌 Featured Projects
+- 🔎 **GitHub Profile Finder** – React application that fetches and displays GitHub user data using REST APIs.
+- 🖼 **Image Search Engine** – JavaScript application that retrieves and dynamically displays images from an external API.
+- 🌐 **Nonprofit Website** – Designed and deployed a responsive WordPress website to improve accessibility and community outreach.
