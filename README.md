@@ -1,15 +1,10 @@
-## 👋 Hi, I'm John
+👋 Hi, I'm John
 
-Frontend Developer focused on building responsive, user-friendly web applications and continuously improving my software engineering skills.
+Frontend Developer passionate about building responsive, user-friendly web applications and continuously growing my software engineering skills.
 
-🔹 **Languages:** JavaScript, React, TypeScript, Next.JS, MongoDB 
-🔹 **Tools & Platforms:** Git, GitHub, AWS, Azure  
+Languages & Frameworks: JavaScript, React, TypeScript, Next.js, and MongoDB for full-stack development.
+Tools & Platforms: Git & GitHub for version control, with experience on cloud platforms like AWS and Azure.
 
-I enjoy solving problems, learning new technologies, and building applications that are clean, maintainable, and scalable.
+I love solving problems, learning new technologies, and building applications that are clean, maintainable, and scalable.
 
-🚀 Currently improving my skills in **React, modern JavaScript, and full-stack development.**
-
-### 📌 Featured Projects
-- 🔎 **GitHub Profile Finder** – React application that fetches and displays GitHub user data using REST APIs.
-- 🖼 **Image Search Engine** – JavaScript application that retrieves and dynamically displays images from an external API.
-- 🌐 **Nonprofit Website** – Designed and deployed a responsive WordPress website to improve accessibility and community outreach.
+🚀 Currently leveling up my skills in React, modern JavaScript, and full-stack development.
