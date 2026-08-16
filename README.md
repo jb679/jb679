@@ -1,1 +1,1 @@
-Frontend Web Developer specializing in React, TypeScript, Next.js, and Tailwind CSS. I build responsive, user-focused web applications with clean REST API integrations, using Vite for fast modern tooling. AWS certified with hands-on knowledge across EC2, S3, IAM, and VPC.
+Frontend Web Developer specializing in Javascript, React, TypeScript, Python, and Tailwind CSS. I build responsive, user-focused web applications with clean REST API integrations, using Vite for fast modern tooling. AWS certified with hands-on knowledge across EC2, S3, IAM, and VPC.
